@@ -1,6 +1,6 @@
-# Qiita Advent Calendar内部いいね押し合い選手権
+# Qiita Advent Calendar Analysis
 
-組織内で「いいね」を押し合っているTOP30社を見つけられるぞ。
+The code find top 30 organization which send like to each other
 
 ```
 python3 get_companies.py
